@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-planner/static/css/main.7acaea2f.css",
+    "main.js": "/tasks-planner/static/js/main.07d3183d.js",
+    "index.html": "/tasks-planner/index.html",
+    "main.7acaea2f.css.map": "/tasks-planner/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/tasks-planner/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
